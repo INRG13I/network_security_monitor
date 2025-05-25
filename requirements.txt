@@ -1,0 +1,6 @@
+requests==2.31.0
+scapy==2.6.1
+psutil==7.0.0
+pysnmp==4.4.12
+python-nmap==0.7.1
+pyasn1==0.4.8
