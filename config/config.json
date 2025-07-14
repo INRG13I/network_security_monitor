@@ -1,0 +1,10 @@
+{
+  "backend": "json",
+  "json_path_base": "data/",
+  "postgres_dsn": "dbname=netdb user=netadmin password=secret host=localhost",
+  "snmp_v3": {
+    "username": "monitorV3",
+    "auth_key": "Greenmile132",
+    "auth_protocol": "SHA"
+  }
+}
